@@ -1,3 +1,4 @@
 function(a,b){
-return a+b;
+Int res=a+b;
+return res;
 }

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B9641D83-34F7-4925-8D76-673353CC918A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleOppsConcept/Program.cs">
+    <Files>
+      <File FileName="SampleOppsConcept/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleOppsConcept" expanded="True">
+            <Node name="SampleOppsConcept" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SampleOppsConcept FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

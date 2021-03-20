@@ -1,0 +1,6 @@
+/Users/sipunabiswal/remoterepo/SamplePrograms/SamplePrograms/bin/Debug/SamplePrograms.exe
+/Users/sipunabiswal/remoterepo/SamplePrograms/SamplePrograms/bin/Debug/SamplePrograms.pdb
+/Users/sipunabiswal/remoterepo/SamplePrograms/SamplePrograms/obj/Debug/SamplePrograms.csprojAssemblyReference.cache
+/Users/sipunabiswal/remoterepo/SamplePrograms/SamplePrograms/obj/Debug/SamplePrograms.csproj.CoreCompileInputs.cache
+/Users/sipunabiswal/remoterepo/SamplePrograms/SamplePrograms/obj/Debug/SamplePrograms.exe
+/Users/sipunabiswal/remoterepo/SamplePrograms/SamplePrograms/obj/Debug/SamplePrograms.pdb
